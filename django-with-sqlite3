@@ -1,0 +1,35 @@
+$ django-admin startproject cloudscan
+
+
+Edit the setting.py for DATABASE_NAME
+'''
+DATABASE_ENGINE = 'sqlite3'           # 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
+DATABASE_NAME = '/home/sis/jgcode/cloudscan/data.db'             # Or path to database file if using sqlite3.
+'''
+
+
+$ python manage.py shell
+In [1]: from django.db import connection
+In [2]: cur = connection.cursor()
+
+
+Edit model.py
+'''
+from django.contrib import admin
+
+_list_per_page = 50
+
+class white_list(models.Model):
+  fileID = models.CharField(max_length=33)
+	status = models.CharField(max_length=1)
+'''
+
+
+$ python manage.py sqlall filelist
+$ python manage.py syncdb
+
+
+$ python manager.py shell
+In [4]: from filelist.models import white_list
+In [5]: p = white_list(fileID='hahaha')
+In [6]: p.save()
