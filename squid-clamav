@@ -1,0 +1,78 @@
+A proxy auto-config (PAC) file defines how web browsers and other user agents can automatically choose the appropriate proxy server (access method) for fetching a given URL
+
+Windows下的代理服务器端使用CCProxy
+客户端使用Proxydroid，必须有root权限。
+Android虚拟器root的方法
+$ ~/soft/android/sdk_2/platform-tools$ ./adb shell
+# mount -o remount,rw -t yaffs2 /dev/block/mtdblock3 /system
+# cd /system/bin
+# cat sh > su
+# chmod 4755 su
+# su
+##############################################
+代理病毒检测：
+  squid 2.7
+	ClamAV 0.97.8
+	squidclamav-5.11
+	i-cap
+
+####################squidclamav##########################
+
+配置文件
+$ sudo gedit /usr/local/etc/squidclamav.conf 
+
+日志文件
+$ sudo gedit /var/log/squid/squidclamav.log
+
+开始
+$ sudo squidclamav
+
+
+$ /etc/init.d/clamav-daemon restart
+
+
+####################Squid##########################
+Squid2.7
+
+更改配置
+$ sudo gedit /etc/squid/squid.conf 
+
+重启服务
+$ sudo squid -k reconfigure
+
+查看访问日志
+sudo gedit /var/log/squid/access.log
+
+关闭服务
+$ sudo squid -k shutdown
+
+启动服务
+$ sudo squid
+
+缓存目录
+cache_dir ufs /var/spool/squid 100 16 256
+
+
+#########
+squid3
+$ sudo gedit /etc/squid3/squid.conf
+
+####################clamav##########################
+$ sudo apt-get install clamav
+
+更新病毒库
+$ sudo freshclam
+
+监测版本
+$ clamscan -V
+
+指定扫描
+$ sudo clamscan -r ./test 
+--remove可选项可以在扫描的时候把病毒删除
+
+
+###################c-icap############################
+启动服务
+$ sudo  /etc/init.d/c-icap start 
+重启服务
+$ sudo /etc/init.d/c-icap restart
