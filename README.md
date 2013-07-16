@@ -1,4 +1,3 @@
-luckyioj
+LPN
 ========
-
-This is my online judge record. Go Go Go !!!
+This is not a blog.just a note for self.
