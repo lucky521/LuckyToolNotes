@@ -1,3 +1,5 @@
-LPN
+Personal Notes
 ========
-This is not a blog.just a note for self.
+This is not a blog.
+
+Useful notes for myself.
