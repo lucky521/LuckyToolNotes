@@ -1,4 +1,5 @@
 " 我的vim配置
+" ~/.vim/vimrc
 
 set nocompatible
 colorscheme molokai
