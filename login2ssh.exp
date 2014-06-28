@@ -1,0 +1,9 @@
+#!/usr/bin/expect
+set password denglumima                                                                  
+spawn ssh -l username 11.11.11.11
+expect {
+"*password:" { send "$password\r" }
+}
+interact
+
+# Method:  $ expect login2ssh.exp  
