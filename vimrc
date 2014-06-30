@@ -10,6 +10,7 @@ set autoindent
 set cursorline
 "set cursorcolumn
 set hlsearch
+set incsearch
 set gcr=a:block-blinkon0
 
 set t_Co=256 "在securecrt下要有
