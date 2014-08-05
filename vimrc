@@ -60,7 +60,7 @@ function TitleDet()
 	let n=1
 	while n < 10
 let line = getline(n)
-	if line =~ '^\S*\sLast\smodified:\S*.*$'
+	if line =~ '^.*\sLast\smodified:\S*.*$'
 call UpdateTitle()
 	return
 	endif
