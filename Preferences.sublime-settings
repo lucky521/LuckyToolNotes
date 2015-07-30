@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"font_size": 11,
+	"font_face": "Courier New",
+	"highlight_line": true,
+	"scroll_past_end": false,
+	"tab_size": 4,
+	"theme": "Brogrammer.sublime-theme",
+	"word_wrap": true,
+	"highlight_modified_tabs": true,
+	"bold_folder_labels": true,
+}
