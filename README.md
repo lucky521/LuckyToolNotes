@@ -4,7 +4,7 @@ This is not a blog.
 
 Useful notes for myself.
 
-
+##Tool
 ### Vim
 
 
@@ -12,4 +12,10 @@ Useful notes for myself.
 
 ### Visual Studio
 
-### Zsh
+### oh-my-Zsh
+
+
+
+#Helper
+###autojump for terminal
+###Proxy SwitchyOmega for chrome
