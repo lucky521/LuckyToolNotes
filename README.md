@@ -4,7 +4,9 @@ This is not a blog.
 
 Useful notes for myself.
 
-##Tool
+---
+
+##Tools
 ### Vim
 
 
@@ -15,7 +17,11 @@ Useful notes for myself.
 ### oh-my-Zsh
 
 
+---
 
-#Helper
-###autojump for terminal
-###Proxy SwitchyOmega for chrome
+#Helpers
+### autojump for terminal
+### Proxy SwitchyOmega for chrome
+### Alfred
+### Moom
+### Manico
