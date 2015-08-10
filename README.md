@@ -11,18 +11,20 @@ Useful notes for myself.
 
 ### Sublime Text
 
-### Visual Studio
-
 ### oh-my-Zsh
+
+
+## Tools on Windows
+### Visual Studio
 
 ### Console2
 
 ### SecureCRT
 
+### Listary
 
 
 
----
 
 #Helpers
 ### autojump for terminal
