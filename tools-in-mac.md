@@ -2,28 +2,32 @@ Useful tools in Mac OS
 ========
 
 ##Tools
-### Sublime Text
 
-### Git Client(Github/SourceTree)
+Sublime Text
 
-### Mou
+Git Client(Github/SourceTree)
+
+Mou
 
 
 ## Shell
-### autojump for terminal
 
-### oh-my-Zsh
+autojump for terminal
 
-### brew
+oh-my-Zsh
 
-### iTerm
+brew
+
+iTerm
 
 
 
 #Helpers
 
+Proxy SwitchyOmega for chrome
 
-### Proxy SwitchyOmega for chrome
-### Alfred
-### Moom
-### Manico
+Alfred2
+
+Moom
+
+Manico
