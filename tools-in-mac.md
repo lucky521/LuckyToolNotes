@@ -4,6 +4,11 @@ Useful tools in Mac OS
 ##Tools
 
 Sublime Text
+	
+	Package Control
+	Ctags
+	Vintage
+	
 
 Git Client(Github/SourceTree)
 
@@ -17,6 +22,9 @@ autojump for terminal
 oh-my-Zsh
 
 brew
+
+	brew doctor/list/install/search
+
 
 iTerm
 
