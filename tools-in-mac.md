@@ -1,23 +1,14 @@
 Useful tools in Mac OS
 ========
 
-##Tools
-
-Sublime Text
-	
-	Package Control
-	Ctags
-	Vintage
-	
-
-Git Client(Github/SourceTree)
+#Edit Tools
 
 Mou
 
 
-## Shell
+#Command-line
 
-autojump for terminal
+autojump
 
 oh-my-Zsh
 

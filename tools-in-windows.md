@@ -11,7 +11,7 @@ SecureCRT
 
 # Monitor/analyser
 
-## Cmd
+## Command-line
 
 Procdump
 
@@ -33,7 +33,7 @@ ProcessExplorer
 
 
 
-# Helper
+#Helper
 
 
 DualMonitor
