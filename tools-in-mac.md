@@ -19,6 +19,8 @@ brew
 
 iTerm
 
+tmux
+
 
 
 #Helpers
