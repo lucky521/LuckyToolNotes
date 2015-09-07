@@ -10,6 +10,7 @@ Sublime Text
 	Package Control
 	Ctags
 	Vintage
+	FileDiffs
 	
 
 Git Client(Github/SourceTree)
