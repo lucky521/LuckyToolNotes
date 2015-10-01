@@ -32,3 +32,5 @@ Alfred2
 Moom
 
 Manico
+
+Scroll Reverser
