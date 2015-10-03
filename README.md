@@ -2,9 +2,9 @@ Personal Notes
 ========
 This is not a blog.
 
-Useful notes for myself.
+Here I list the useful notes for myself.
 
----
+
 
 ## Tools
 [Common Tools](https://github.com/lucky521/LuckyToolNotes/blob/master/Common-tools.md)
@@ -14,7 +14,7 @@ Useful notes for myself.
 
 [Tools in Mac](https://github.com/lucky521/LuckyToolNotes/blob/master/tools-in-mac.md)
 
-
+[Tools in Linux](https://github.com/lucky521/LuckyToolNotes/blob/master/tools-in-linux.md)
 
 
 
