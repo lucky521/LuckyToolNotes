@@ -1,4 +1,4 @@
-How I Use HHKB.
+# How I Use HHKB.
 
 My HHKB is HHKB2 type-s, which is awesome for engineers, no matter *nix or Windows developers.
 
