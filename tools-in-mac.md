@@ -25,7 +25,6 @@ tmux
 
 #Helpers
 
-Proxy SwitchyOmega for chrome
 
 Alfred2
 

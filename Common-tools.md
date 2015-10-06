@@ -26,6 +26,9 @@ Git Client(Github/SourceTree)
 
 Chrome
 
+	vimium
+	Proxy SwitchyOmega
+
 Evernote
 
 Wunderlist
