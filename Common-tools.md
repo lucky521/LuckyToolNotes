@@ -10,6 +10,7 @@ Vi/Vim
 	vundle
 	ctags
 	youcompleteme
+	powerline
 
 Sublime Text
 	
@@ -17,6 +18,7 @@ Sublime Text
 	Ctags
 	Vintage
 	FileDiffs
+
 	
 
 Git Client(Github/SourceTree)

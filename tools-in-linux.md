@@ -21,3 +21,7 @@ oh-my-zsh
 awk
 
 sed
+
+colordiff
+
+alias
