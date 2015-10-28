@@ -35,6 +35,8 @@ ProcessExplorer
 
 API Monitor
 
+Clumsy (Simulate Network Latency)
+
 
 
 #Helper
