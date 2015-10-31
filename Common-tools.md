@@ -19,6 +19,8 @@ Sublime Text
 	Vintage
 	FileDiffs
 	Syntastic
+	delimitMate
+	nerdcommenter
 
 	
 
