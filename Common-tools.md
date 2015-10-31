@@ -18,6 +18,7 @@ Sublime Text
 	Ctags
 	Vintage
 	FileDiffs
+	Syntastic
 
 	
 
