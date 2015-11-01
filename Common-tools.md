@@ -9,8 +9,14 @@ Vi/Vim
 
 	vundle
 	ctags
+	taglist
+	cscope
 	youcompleteme
 	powerline
+	Syntastic
+	delimitMate
+	nerdcommenter
+
 
 Sublime Text
 	
@@ -18,9 +24,6 @@ Sublime Text
 	Ctags
 	Vintage
 	FileDiffs
-	Syntastic
-	delimitMate
-	nerdcommenter
 
 	
 
