@@ -43,3 +43,5 @@ Clumsy (Simulate Network Latency)
 
 
 DualMonitor
+
+Launchy (Alfred on Windows)
