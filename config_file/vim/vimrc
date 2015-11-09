@@ -1,6 +1,6 @@
 " 我的vim配置
 " ~/.vim/vimrc
-
+""""""""""""""""""""""""""""""""""""""""""""
 set nocompatible
 colorscheme molokai
 set backspace=indent,eol,start
@@ -15,12 +15,26 @@ set hlsearch
 set incsearch
 set gcr=a:block-blinkon0
 set t_Co=256 "在securecrt下要有
-
+""""""""""""""""""""""""""""""""""""""""""""
+" encoding
 let &termencoding=&encoding
 set fileencodings=utf-8,ucs-bom,gbk,gb2312,cp936
 set termencoding=utf-8
 "set fileformats=unix
 set encoding=prc
+""""""""""""""""""""""""""""""""""""""""""""
+" hightlight word under cursor
+set updatetime=500
+au! CursorMoved * set nohlsearch
+au! CursorHold * set hlsearch | let @/='\<'.expand("<cword>").'\>'
+set hlsearch
+""""""""""""""""""""""""""""""""""""""""""""
+" keyboard maping
+let mapleader ="`"
+map <up> <nop>
+map <down> <nop>
+map <left> <nop>
+map <right> <nop>
 """"""""""""""""""""""""""""""""""""""""""""
 " For auther title
 "自动加作者信息 
@@ -127,7 +141,6 @@ let Tlist_Ctags_Cmd = '/usr/bin/ctags'
 let Tlist_Show_One_File = 1
 let Tlist_Exit_OnlyWindow = 1
 let Tlist_Use_Right_Window = 1
-
 set tags=./tags,tags;$HOME
 """""""""""""""""""""""""""""""""
 "powerline
@@ -153,7 +166,6 @@ let g:syntastic_enable_highlighting=1
 """"""""""""""""""""""""""""""""""
 " nerdcommenter
 let g:NERDSpaceDelims=1
-
 """"""""""""""""""""""""""""""""""
 " you complete me
 set completeopt=longest,menu
@@ -167,6 +179,6 @@ inoremap <expr> <PageUp>   pumvisible() ? "\<PageUp>\<C-p>\<C-n>" : "\<PageUp>"
 " cscope
 source ~/.vim/bundle/cscope_maps.vim
 """"""""""""""""""""""""""""""""""""
-"auto update Tags
+" auto update Tags
 source ~/.vim/bundle/autotag.vim
 """"""""""""""""""""""""""""""""""""
