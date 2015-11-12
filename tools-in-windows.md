@@ -7,6 +7,8 @@ Useful tools in Windows
 
 SecureCRT
 
+FileZilla
+
 Console2
 
 
