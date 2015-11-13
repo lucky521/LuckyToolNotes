@@ -24,6 +24,7 @@ Sublime Text
 	Ctags
 	Vintage
 	FileDiffs
+	Markdown Preview
 
 	
 
