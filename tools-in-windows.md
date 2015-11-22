@@ -24,9 +24,6 @@ Procdump
 
 WinDBG
 
-spy++
-
-
 baregreppro
 
 baretailpro
@@ -35,7 +32,7 @@ Procmon
 
 ProcessExplorer
 
-API Monitor
+API Monitor (Watch API Call for App you want)
 
 Clumsy (Simulate Network Latency)
 
@@ -44,8 +41,10 @@ Clumsy (Simulate Network Latency)
 #Helper
 
 
-DualMonitor
+DualMonitor (Taskbar for dual-monitor)
 
 Launchy (Alfred on Windows)
 
-Switcher (Cool task switch)
+Switcher (Task switch)
+
+Autohotkey (Shortcut remap)
