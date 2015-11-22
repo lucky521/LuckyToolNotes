@@ -1,18 +1,24 @@
 # Readline Commands
 
-## Move Cursor
+### Move Cursor
 
-ctrl + u/k   kill all the input line on the left/right
+- ctrl + u/k   
+kill all the input line on the left/right
 
-ctrl + w     kill a word on the left
+- ctrl + w     
+kill a Word on the left
 
-ctrl + l     clear screen
+- ctrl + l     
+clear screen
 
-ctrl + a/e    go to the beginning/end of the line
+- ctrl + a/e   
+go to the beginning/end of the line
 
-ctrl + b/f    go to backward/forward char
+- ctrl + b/f    
+go to Backward/Forward Char
 
-ctrl + p/n   go to previous/next line
+- ctrl + p/n   
+go to Previous/Next line
 
-alt + b/f    go to backward/forward word
-
+- alt + b/f    
+go to Backward/Forward Word

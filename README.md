@@ -18,13 +18,13 @@ Here I list the useful notes for myself.
 
 
 
-## Shorcut
+## Shortcuts
 
 [Mac Shortcut](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/mac-shortcut.md)
 
 [HHKB](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/hhkb.md)
 
-[Readline](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/readline.md)
+[Read Line](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/readline.md)
 
 
 
