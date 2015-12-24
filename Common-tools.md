@@ -3,8 +3,7 @@ Common Tools
 These tools are avaliable in Windows/Linux/OSX.
 
 
-
-#Edit Tools
+# Edit Tools
 Vi/Vim
 
 	vundle
@@ -26,12 +25,13 @@ Sublime Text
 	FileDiffs
 	Markdown Preview
 
-	
+
+Visual Studio Code
+
+
+# Browser
 
 Git Client(Github/SourceTree)
-
-
-#Browser
 
 Chrome
 
