@@ -27,6 +27,15 @@ Here I list the useful notes for myself.
 [Read Line](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/readline.md)
 
 
+## Config(dotfiles)
+
+- vim: ~/.vim
+- oh-my-zsh: ~/.zshrc
+- ssh:  ~/.ssh
+- git: ~/.gitconfig
+
+
+
 
 ## Books
 
