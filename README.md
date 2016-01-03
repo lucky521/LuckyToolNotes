@@ -36,8 +36,3 @@ Here I list the useful notes for myself.
 
 
 
-
-## Books
-
-[Books](https://github.com/lucky521/LuckyToolNotes/blob/master/Recommended-Books.md)
-
