@@ -7,6 +7,9 @@ Here I list the useful notes for myself.
 
 
 ## Tools
+
+工欲善其事，必先利其器。
+
 [Common Tools](https://github.com/lucky521/LuckyToolNotes/blob/master/Common-tools.md)
 
 
@@ -20,6 +23,8 @@ Here I list the useful notes for myself.
 
 ## Shortcuts
 
+舒适的快捷键能减少很多碎片时间。
+
 [Mac Shortcut](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/mac-shortcut.md)
 
 [HHKB](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/hhkb.md)
@@ -28,6 +33,8 @@ Here I list the useful notes for myself.
 
 
 ## Config(dotfiles)
+
+必备的配置文件要保留起来便于迁移。
 
 - vim: ~/.vim
 - oh-my-zsh: ~/.zshrc
