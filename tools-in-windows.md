@@ -50,3 +50,5 @@ Launchy (Alfred on Windows)
 Switcher (Task switch)
 
 Autohotkey (Shortcut remap)
+
+Clover (Window Tab)
