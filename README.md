@@ -4,7 +4,7 @@ This is not a blog.
 
 Here I list the useful notes for myself.
 
-
+另外，我有篇博文罗列了[我的工具集](http://lucky521.github.io/blog/tool/2015/01/03/tool-i-use.html)。
 
 ## Tools
 
