@@ -1,5 +1,20 @@
 #ShortCut of Mac OSX
 
+## 我的习惯配置
+
+`输入法快捷键 CMD + Space`
+
+`Alfred快捷键 Option + Space`
+
+`轻敲单击（Trackpad ->Tap to click）`
+
+`三指拖动   多行选择、拖动窗口 （Accessibility->Trackpad Options->Enable draggling there finger drag）`
+
+[Disable最小化窗口快捷键](http://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-command-m-shortcut-in-mavericks)
+
+`把Caps lock键改为Ctrl键`
+
+
 ## 工作空间
 cmd+q、  关闭整个程序
 
@@ -15,15 +30,9 @@ ctrl + 上/下     平铺开当前打开窗口
 
 
 
-
-
 ## Trackpad
 
-`轻敲单击（Trackpad ->Tap to click）`
-
 两指拖动   滑动滚动条
-
-`三指拖动   多行选择、拖动窗口 （Accessibility->Trackpad Options->Enable draggling there finger drag）`
 
 四指向上   mission control
 
