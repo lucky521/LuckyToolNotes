@@ -19,9 +19,11 @@ ctrl + 上/下     平铺开当前打开窗口
 
 ## Trackpad
 
+`轻敲单击（Trackpad ->Tap to click）`
+
 两指拖动   滑动滚动条
 
-三指拖动   多行选择、拖动窗口
+`三指拖动   多行选择、拖动窗口 （Accessibility->Trackpad Options->Enable draggling there finger drag）`
 
 四指向上   mission control
 
