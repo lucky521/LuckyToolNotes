@@ -1,16 +1,20 @@
-Useful tools in Mac OS
+Useful tools in MacOS
 ========
 
-#Edit Tools
+# Edit Tools
 
 Mou
 
+Sublime Text
 
-#Command-line
+Visual Studio Code
+
+
+# Command-line
 
 autojump
 
-oh-my-Zsh
+zsh + oh-my-Zsh
 
 brew
 
@@ -23,15 +27,16 @@ tmux
 
 
 
-#Helpers
+# Helpers
 
-
-Alfred2
+Alfred
 
 Moom
 
-Manico
-
-Scroll Reverser
-
 Karabiner
+
+~~Manico~~
+
+~~Scroll Reverser~~
+
+
