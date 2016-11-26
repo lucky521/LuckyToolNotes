@@ -2,6 +2,15 @@ Common Tools
 ========
 These tools are avaliable in Windows/Linux/OSX.
 
+# IDE
+
+Visual Studio(2008, 2012, 2015)
+
+Xcode
+
+Android Studio
+
+Unity
 
 # Edit Tools
 Vi/Vim
@@ -41,3 +50,14 @@ Chrome
 Evernote
 
 Wunderlist
+
+# Remote File Access
+
+FileZilla
+
+SMB
+
+NFS mount
+
+Shared Folder
+
