@@ -6,9 +6,9 @@ Here I list the useful notes for myself about Tools, Applications, Configuration
 
 另外，我有篇博文罗列了[我的工具集](http://lucky521.github.io/blog/tool/2015/01/03/tool-i-use.html)。
 
-## Tools & Apps
-
 工欲善其事，必先利其器。
+
+## Tools & Apps
 
 [Common Tools](https://github.com/lucky521/LuckyToolNotes/blob/master/Common-tools.md)
 
@@ -34,13 +34,13 @@ Here I list the useful notes for myself about Tools, Applications, Configuration
 
 ## Dotfiles
 
-必备的配置文件要保留起来便于迁移。
+必备的配置文件要保留起来便于迁移，一定别忘记备份、迁移配置文件。
 
 - vim: ~/.vim/
 - oh-my-zsh: ~/.zshrc
-- ssh:  ~/.ssh/
+- ssh:  ~/.ssh/...
 - git: ~/.gitconfig
-
+- Alfred: /Users/`MyName`/Library/Application Support/Alfred 2/...
 
 ## Personalized Config
 
