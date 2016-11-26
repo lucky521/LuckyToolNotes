@@ -25,6 +25,8 @@ Here I list the useful notes for myself about Tools, Applications, Configuration
 
 舒适的快捷键能减少很多碎片时间。
 
+[UniformShortcut](https://github.com/lucky521/UniformShortcut)
+
 [Mac Shortcut](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/mac-shortcut.md)
 
 [HHKB](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/hhkb.md)
