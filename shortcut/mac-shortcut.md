@@ -6,13 +6,16 @@
 
 `Alfred快捷键 Option + Space`
 
-`轻敲单击（Trackpad ->Tap to click）`
+`轻敲单击（Trackpad->Tap to click）`
 
 `三指拖动   多行选择、拖动窗口 （Accessibility->Trackpad Options->Enable draggling there finger drag）`
+
+`三指轻巧查字典 (Tackpad->Loop up & data detectors)`
 
 [Disable最小化窗口快捷键](http://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-command-m-shortcut-in-mavericks)
 
 `把Caps lock键改为Ctrl键`
+
 
 
 ## 工作空间
@@ -40,7 +43,6 @@ ctrl + 上/下     平铺开当前打开窗口
 
 两个指头点 单词选择
 
-三个指头点 查字典
 
 ## 文件操作
 
