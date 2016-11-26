@@ -1,17 +1,16 @@
-Personal Notes
+Lucky Tool Notes
 ========
 This is not a blog.
 
-Here I list the useful notes for myself.
+Here I list the useful notes for myself about Tools, Applications, Configurations.
 
 另外，我有篇博文罗列了[我的工具集](http://lucky521.github.io/blog/tool/2015/01/03/tool-i-use.html)。
 
-## Tools
+## Tools & Apps
 
 工欲善其事，必先利其器。
 
 [Common Tools](https://github.com/lucky521/LuckyToolNotes/blob/master/Common-tools.md)
-
 
 [Tools in Windows](https://github.com/lucky521/LuckyToolNotes/blob/master/tools-in-windows.md)
 
@@ -19,6 +18,7 @@ Here I list the useful notes for myself.
 
 [Tools in Linux](https://github.com/lucky521/LuckyToolNotes/blob/master/tools-in-linux.md)
 
+[Common Apps](https://github.com/lucky521/LuckyToolNotes/blob/master/common-app.md)
 
 
 ## Shortcuts
@@ -32,14 +32,16 @@ Here I list the useful notes for myself.
 [Read Line](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/readline.md)
 
 
-## Config(dotfiles)
+## Dotfiles
 
 必备的配置文件要保留起来便于迁移。
 
-- vim: ~/.vim
+- vim: ~/.vim/
 - oh-my-zsh: ~/.zshrc
-- ssh:  ~/.ssh
+- ssh:  ~/.ssh/
 - git: ~/.gitconfig
 
 
+## Personalized Config
 
+[Config For My Macbookpro](https://github.com/lucky521/LuckyToolNotes/blob/master/config-for-mac.md)
