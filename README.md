@@ -41,6 +41,7 @@ Here I list the useful notes for myself about Tools, Applications, Configuration
 - vim: ~/.vim/
 - oh-my-zsh: ~/.zshrc
 - ssh:  ~/.ssh/...
+ 包括config, known_hosts, 私钥, 公钥等文件，注意公钥文件的权限要是400。
 - git: ~/.gitconfig
 - Alfred: /Users/`MyName`/Library/Application Support/Alfred 2/...
 
