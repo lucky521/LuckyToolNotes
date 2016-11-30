@@ -51,6 +51,11 @@ Evernote
 
 Wunderlist
 
+Perforce Client
+
+Beyond Compare
+
+
 # Remote File Access
 
 FileZilla
