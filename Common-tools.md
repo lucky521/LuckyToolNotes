@@ -58,6 +58,8 @@ Beyond Compare
 
 # Remote File Access
 
+SSH
+
 FileZilla
 
 SMB
@@ -65,4 +67,6 @@ SMB
 NFS mount
 
 Shared Folder
+
+Microsoft RDC
 
