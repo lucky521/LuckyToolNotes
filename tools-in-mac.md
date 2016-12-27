@@ -39,4 +39,5 @@ Karabiner
 
 ~~Scroll Reverser~~
 
+iStat Menus
 
