@@ -3,7 +3,7 @@
 我平时都会用到的应用软件。
 
 - Email: outlook, foxmail, Mail.app
-- VPN
+- GFW: ShadowsocksX-NG
 - Virtual Machine: Fusion
 - 输入法: sougou
 - 解压缩软件: RAR Extrator Free
