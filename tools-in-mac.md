@@ -37,7 +37,7 @@ Karabiner
 
 ~~Manico~~
 
-~~Scroll Reverser~~
+Scroll Reverser
 
 iStat Menus
 
