@@ -1,5 +1,7 @@
 # Config for my MacbookPro
 
+## 快捷键配置
+
 ## 节能配置
 
 ## 扩展显示器设置
