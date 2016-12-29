@@ -1,4 +1,8 @@
-#ShortCut of Mac OSX
+# ShortCut of Mac OSX
+
+`System Perferences -> Keyboard -> Shortcuts` 下面的设定值得细致的设置一番。
+
+
 
 ## 我的习惯配置
 
@@ -15,6 +19,9 @@
 [Disable最小化窗口快捷键](http://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-command-m-shortcut-in-mavericks)
 
 `把Caps lock键改为Ctrl键`
+
+
+
 
 
 
