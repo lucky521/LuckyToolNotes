@@ -20,6 +20,7 @@
 
 `把Caps lock键改为Ctrl键`
 
+![mac-modifier-keys](https://github.com/lucky521/LuckyToolNotes/raw/master/shortcut/mac-modifier.png)
 
 
 
