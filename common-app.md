@@ -15,3 +15,4 @@
 - 视频播放器: Mplayerx
 - 下载工具: Thunder
 - 视频格式转换: FFmpeg, HandBrake
+- BookReader: Kitabu(epub), kindle(mobi), iBooks(pdf)
