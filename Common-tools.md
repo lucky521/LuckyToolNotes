@@ -70,3 +70,5 @@ Shared Folder
 
 Microsoft RDC
 
+VNC Viewer
+
