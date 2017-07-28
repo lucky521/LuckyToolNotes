@@ -6,9 +6,13 @@
 
 ## 我的习惯配置
 
-`输入法快捷键 CMD + Space`
+`输入法切换快捷键: CMD + Space`
 
-`Alfred快捷键 Option + Space`
+`Alfred 快捷键: Option + Space`
+
+`Task Switch 快捷键: Tab + CMD`
+
+`Mission Control 快捷键: Tab + Alt`
 
 `轻敲单击（Trackpad->Tap to click）`
 
@@ -27,6 +31,7 @@
 
 
 ## 工作空间
+
 cmd+q、  关闭整个程序
 
 cmd+w、 关闭一个tab
@@ -85,6 +90,7 @@ cmd + 上/下   向上/向下跳转文件夹深度
 
 
 ## Safari
+
 主页 command + shift + H
 
 打开新tab command + t
