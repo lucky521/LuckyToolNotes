@@ -89,6 +89,15 @@ cmd + 上/下   向上/向下跳转文件夹深度
 截某窗口图生成到文件：shift + command + 4 ，然后按 space，然后选窗口。
 
 
+## Chrome
+
+Option + command + 方向键，  不同Tab间切换。
+
+Command + t， 新建空白tab。
+
+Command + w， 关闭当前tab。
+
+
 ## Safari
 
 主页 command + shift + H
