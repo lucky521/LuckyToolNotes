@@ -32,6 +32,8 @@ Procmon
 
 ProcessExplorer
 
+WinObj  （Watch Kernel object）
+
 API Monitor (Watch API Call for App you want)
 
 Clumsy (Simulate Network Latency)
