@@ -4,7 +4,7 @@ This is not a blog.
 
 Here I list the useful notes for myself about Tools, Applications, Configurations.
 
-另外，我有篇博文罗列了[我的工具集](http://lucky521.github.io/blog/tool/2015/01/03/tool-i-use.html)。
+另外，我有篇博文罗列了[我的工具集](http://lucky521.github.io/blog/tool/2015/01/03/tool-i-use.html)、[Macbook使用技巧](https://lucky521.github.io/blog/productivity/2016/08/14/how-to-use-macbook.html)。
 
 工欲善其事，必先利其器。
 
