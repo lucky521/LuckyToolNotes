@@ -20,7 +20,7 @@
 
 `三指轻巧查字典 (Tackpad->Loop up & data detectors)`
 
-[Disable最小化窗口快捷键](http://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-command-m-shortcut-in-mavericks)
+[Disable最小化窗口快捷键](http://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-command-m-shortcut-in-mavericks)， 将CMD+M设置为Moom的默认快捷键。
 
 `把Caps lock键改为Ctrl键`
 
@@ -38,12 +38,15 @@ cmd+w、 关闭一个tab
 
 cmd+tab、 程序之间切换
 
-cmd+h    最小化
+cmd+h    最小化隐藏窗口
 
 ctrl + 左/右     切换工作空间 
 
 ctrl + 上/下     平铺开当前打开窗口 
 
+Option + command + 方向键，  不同Tab间切换
+
+Ctrl + Tab， 不同Tab间切换
 
 
 ## Trackpad
@@ -56,6 +59,8 @@ ctrl + 上/下     平铺开当前打开窗口
 
 两个指头点 单词选择
 
+三个指头点 查字典
+
 在使用鼠标的情况下，可以使用 command + control + d 来代替三指取词功能。
 
 
@@ -67,9 +72,13 @@ ctrl + 上/下     平铺开当前打开窗口
 
 如果是复制，command + v 
 
+纯文本格式粘贴：shift + command + v
+
 command + [] 文件夹前进、后退
 
 cmd + 上/下   向上/向下跳转文件夹深度
+
+cmd + i 显示文件属性
 
 ## 文本操作
 
@@ -91,7 +100,7 @@ cmd + 上/下   向上/向下跳转文件夹深度
 截某窗口图生成到文件：shift + command + 4 ，然后按 space，然后选窗口。
 
 
-## Chrome
+## Chrome/Safari
 
 Option + command + 方向键，  不同Tab间切换。
 
@@ -99,19 +108,22 @@ Command + t， 新建空白tab。
 
 Command + w， 关闭当前tab。
 
-
-## Safari
-
 主页 command + shift + H
 
-打开新tab command + t
-
-关闭tab  command + w
-
 在新tab中打开   加按一个command
+
+根据编号选择tab  Command + 1,2,3,4  
+
+聚焦到地址栏  command + l
 
 
 ## 印象笔记
 
 搜索： Cmd + J 
+
+为文本添加删除线: CMD＋CTRL＋K
+
+## 外接显示器
+
+Command+F1 可以快速切换双屏的扩展显示or镜像显示。
 
