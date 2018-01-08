@@ -37,6 +37,7 @@ Sublime Text
 
 Visual Studio Code
 
+Atom
 
 # Browser
 
@@ -55,6 +56,11 @@ Perforce Client
 
 Beyond Compare
 
+# Multi-OS
+
+Docker
+
+Workstations/Fusion
 
 # Remote File Access
 
