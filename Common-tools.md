@@ -4,13 +4,16 @@ These tools are avaliable in Windows/Linux/OSX.
 
 # IDE
 
-Visual Studio(2008, 2012, 2015)
+Visual Studio(2008, 2012, 2015, 2017)
 
 Xcode
 
 Android Studio
 
 Unity
+
+IntelliJ IDEA
+
 
 # Edit Tools
 Vi/Vim
@@ -88,6 +91,5 @@ VNC Viewer
 
 # Package Manager
 
-Anaconda
+Anaconda (for Python)
 
-Brew
