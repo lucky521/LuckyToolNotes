@@ -41,3 +41,5 @@ Scroll Reverser
 
 iStat Menus
 
+Paragon NTFS for Mac
+
