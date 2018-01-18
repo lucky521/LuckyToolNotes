@@ -56,11 +56,18 @@ Perforce Client
 
 Beyond Compare
 
+ProtobufViewer
+
+DB Browser for SQLite
+
+
 # Multi-OS
 
 Docker
 
 Workstations/Fusion
+
+
 
 # Remote File Access
 
@@ -78,3 +85,9 @@ Microsoft RDC
 
 VNC Viewer
 
+
+# Package Manager
+
+Anaconda
+
+Brew
