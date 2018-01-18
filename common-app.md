@@ -13,6 +13,7 @@
 - Calendar
 - Reminder
 - 视频播放器: Mplayerx
+- 音视频处理：iMovie, Audacity
 - 录屏软件: OBS
 - 下载工具: Thunder
 - 视频格式转换: FFmpeg, HandBrake
