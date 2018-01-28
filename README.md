@@ -25,13 +25,13 @@ Here I list the useful notes for myself about Tools, Applications, Configuration
 
 舒适的快捷键能减少很多碎片时间。
 
-[UniformShortcut](https://github.com/lucky521/UniformShortcut)
+[UniformShortcut](https://github.com/lucky521/UniformShortcut) 在Mac和Windows下使用统一一致的通用快捷键。
 
-[Mac Shortcut](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/mac-shortcut.md)
+[Mac Shortcut](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/mac-shortcut.md) Mac惯用快捷键
 
-[HHKB](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/hhkb.md)
+[HHKB](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/hhkb.md) 静电容键盘使用心得
 
-[Read Line](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/readline.md)
+[Read Line](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/readline.md)  Linux终端快捷键
 
 
 ## Dotfiles
