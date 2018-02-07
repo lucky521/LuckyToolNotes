@@ -44,16 +44,22 @@ Atom
 
 # Browser
 
-Git Client(Github/SourceTree)
-
 Chrome
 
 	vimium
 	Proxy SwitchyOmega
+	Web Server for Chrome
+	RoboMongo
+	Postman
+	ARC Welder
 
 Evernote
 
 Wunderlist
+
+Pocket
+
+Git Client(Github/SourceTree)
 
 Perforce Client
 
