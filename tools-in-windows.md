@@ -54,3 +54,5 @@ Switcher (Task switch)
 Autohotkey (Shortcut remap)
 
 Clover (Window Tab)
+
+Aquasnap (Window Manager)
