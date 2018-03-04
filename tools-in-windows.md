@@ -47,7 +47,9 @@ Dependency Walker
 
 DualMonitor (Taskbar for dual-monitor)
 
-Launchy (Alfred on Windows)
+Everything (File Quick indexing)
+
+Launchy -> Wox (Alfred on Windows)
 
 Switcher (Task switch)
 
