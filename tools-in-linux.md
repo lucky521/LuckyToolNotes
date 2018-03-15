@@ -14,6 +14,7 @@ ag
 
 
 # shell
+
 zsh
 
 oh-my-zsh
@@ -32,3 +33,9 @@ alias
 grip (markdown file to Web)
 
 vim-markdown (Vim Plugin for markdown)
+
+# Alias
+
+rz -bye
+
+sz
