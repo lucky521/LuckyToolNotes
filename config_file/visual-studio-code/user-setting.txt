@@ -1,0 +1,12 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "window.title": "${activeEditorLong}${separator}${rootName}",
+    "workbench.activityBar.visible": true
+}
