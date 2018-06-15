@@ -8,6 +8,7 @@ set nu
 syntax on
 set autoindent
 set ts=4 sw=4
+set expandtab
 let mapleader ="`"
 set cursorline
 "set cursorcolumn
