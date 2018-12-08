@@ -4,7 +4,7 @@
 
 
 
-## 我的习惯配置
+## 我的习惯自定义配置
 
 `输入法切换快捷键: CMD + Space`
 
@@ -32,21 +32,29 @@
 
 ## 工作空间
 
-cmd+q   关闭整个程序
+窗口控制
 
-cmd+w   关闭一个tab
+    Cmd+q   关闭整个程序
 
-cmd+tab   程序之间切换
+    Cmd+w   关闭一个tab
 
-Ctrl+Tab   不同Tab间切换
+    Cmd+h    最小化隐藏窗口
 
-cmd+h    最小化隐藏窗口
+窗口切换
 
-ctrl + 左/右     切换工作空间 
+    Cmd+Tab   程序之间切换
 
-ctrl + 上/下     平铺开当前打开窗口 
+    Ctrl+Tab   不同Tab间切换
 
-Option + command + 方向键，  不同Tab间有方向切换（不通用，chrome支持）
+    Opt+Tab  窗口布局总览 Mission Control
+
+其他
+
+    ctrl + 左/右     切换工作空间 
+
+    ctrl + 上/下     平铺开当前打开窗口 
+
+    Option + command + 方向键，  不同Tab间有方向切换（不通用，chrome支持）
 
 
 ## Trackpad
@@ -79,6 +87,7 @@ command + [] 文件夹前进、后退
 cmd + 上/下   向上/向下跳转文件夹深度
 
 cmd + i 显示文件属性
+
 
 ## 文本操作
 
