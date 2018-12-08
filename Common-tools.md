@@ -99,3 +99,5 @@ VNC Viewer
 
 Anaconda (for Python)
 
+Jupyter
+
