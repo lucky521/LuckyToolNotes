@@ -32,11 +32,13 @@
 
 ## 工作空间
 
-cmd+q、  关闭整个程序
+cmd+q   关闭整个程序
 
-cmd+w、 关闭一个tab
+cmd+w   关闭一个tab
 
-cmd+tab、 程序之间切换
+cmd+tab   程序之间切换
+
+Ctrl+Tab   不同Tab间切换
 
 cmd+h    最小化隐藏窗口
 
@@ -44,9 +46,7 @@ ctrl + 左/右     切换工作空间
 
 ctrl + 上/下     平铺开当前打开窗口 
 
-Option + command + 方向键，  不同Tab间切换
-
-Ctrl + Tab， 不同Tab间切换
+Option + command + 方向键，  不同Tab间有方向切换（不通用，chrome支持）
 
 
 ## Trackpad
