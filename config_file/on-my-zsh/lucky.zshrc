@@ -80,3 +80,5 @@ export STUDIO_JDK="/Library/Java/JavaVirtualMachines/jdk1.8.0.jdk"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+export LESSCHARSET=utf-8
