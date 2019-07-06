@@ -3,11 +3,11 @@ Useful tools in MacOS
 
 # Edit Tools
 
-Mou
+Visual Studio Code
 
 Sublime Text
 
-Visual Studio Code
+~~Mou~~
 
 
 # Command-line
@@ -35,11 +35,11 @@ Moom
 
 Karabiner
 
-~~Manico~~
-
 Scroll Reverser
 
 iStat Menus
 
 Paragon NTFS for Mac
+
+~~Manico~~
 
