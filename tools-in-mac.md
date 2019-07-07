@@ -39,6 +39,8 @@ Scroll Reverser
 
 iStat Menus
 
+ShadowsocksX-NG
+
 Paragon NTFS for Mac
 
 ~~Manico~~
