@@ -1,5 +1,35 @@
 # 常用的extensions
 
+```
+$ code --list-extensions                                                                                                                                                                                                           [11:59:22]
+akamud.vscode-theme-onedark
+austin.code-gnu-global
+DavidAnson.vscode-markdownlint
+DevonDCarew.bazel-code
+donjayamanne.githistory
+DotJoshJohnson.xml
+eamodio.gitlens
+faustinoaq.lex-flex-yacc-bison
+James-Yu.latex-workshop
+josephtbradley.hive-sql
+maelvalais.autoconf
+matthewferreira.cppcheck
+mine.cpplint
+ms-azuretools.vscode-docker
+ms-python.python
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode-remote.remote-wsl
+ms-vscode-remote.vscode-remote-extensionpack
+ms-vscode.cmake-tools
+ms-vscode.cpptools
+peterj.proto
+rafaelmaiolla.remote-vscode
+redhat.java
+ryu1kn.partial-diff
+sidneys1.gitconfig
+yzane.markdown-pdf
+```
 
 # 常用的个性配置
 
