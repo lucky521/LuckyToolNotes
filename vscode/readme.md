@@ -73,3 +73,6 @@ https://stackoverflow.com/questions/29971053/how-to-open-visual-studio-code-from
 
 2. Shortcut command
 /usr/local/bin/code ~/lu-personal-file/lu-github/
+
+3. 怎么命令行打开SSH远程的项目，目前还没找到方法
+有人提问但还没人回答： https://stackoverflow.com/questions/59904857/how-to-invoke-vscode-in-ssh-mode-from-the-command-line
