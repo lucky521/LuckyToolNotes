@@ -38,4 +38,8 @@
 ```
 
 # 通过命令行打开常用工程
+1. "code" command
+https://stackoverflow.com/questions/29971053/how-to-open-visual-studio-code-from-the-command-line-on-osx
 
+2. Shortcut command
+/usr/local/bin/code ~/lu-personal-file/lu-github/
