@@ -5,7 +5,7 @@
 - Email: outlook, foxmail, Mail.app
 - GFW: ShadowsocksX-NG
 - Virtual Machine: Fusion
-- 输入法: sougou
+- 输入法: sougou （自动同步输入习惯配置，比如哪些APP用英文，哪些APP用中文。
 - 解压缩软件: RAR Extrator Free
 - 网易云音乐
 - QQ Wechat
