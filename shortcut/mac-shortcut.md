@@ -1,10 +1,9 @@
 # ShortCut of Mac OSX
 
-`System Perferences -> Keyboard -> Shortcuts` 下面的设定值得细致的设置一番。
+`System Perferences -> Keyboard -> Shortcuts` 该面板下面的设定值得细致的设置一番。
 
 
-
-## 我的习惯自定义配置
+# 我的习惯自定义配置
 
 `输入法切换快捷键: CMD + Space`
 
@@ -28,7 +27,7 @@
 
 
 
-
+# 键盘快捷键
 
 ## 工作空间
 
@@ -55,21 +54,6 @@
     ctrl + 上/下     平铺开当前打开窗口 
 
     Option + command + 方向键，  不同Tab间有方向切换（不通用，chrome支持）
-
-
-## Trackpad
-
-两指拖动   滑动滚动条
-
-四指向上   mission control
-
-四指内聚    dash board
-
-两个指头点 单词选择
-
-三个指头点 查字典
-
-在使用鼠标的情况下，可以使用 command + control + d 来代替三指取词功能。
 
 
 ## 文件操作
@@ -136,3 +120,17 @@ Command + w， 关闭当前tab。
 
 Command+F1 可以快速切换双屏的扩展显示or镜像显示。
 
+
+# Trackpad手势
+
+两指拖动   滑动滚动条
+
+四指向上   mission control
+
+四指内聚    dash board
+
+两个指头点 单词选择
+
+三个指头点 查字典
+
+在使用鼠标的情况下，可以使用 command + control + d 来代替三指取词功能。
