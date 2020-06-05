@@ -1,0 +1,27 @@
+
+export PATH=/export/ll/llconda/bin/:$PATH
+export LD_LIBRARY_PATH=/export/gezhiwei/miniconda3/envs/cvalgo/lib/:$LD_LIBRARY_PATH
+
+source ./llconda/etc/profile.d/conda.sh
+
+conda activate llpy3
+
+
+source ll_conda_init.sh
+
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/export/ll/llconda/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/export/ll/llconda/etc/profile.d/conda.sh" ]; then
+        . "/export/ll/llconda/etc/profile.d/conda.sh"
+    else
+        export PATH="/export/ll/llconda/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
