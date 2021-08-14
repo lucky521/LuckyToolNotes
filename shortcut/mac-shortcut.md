@@ -135,4 +135,8 @@ Command+F1 可以快速切换双屏的扩展显示or镜像显示。
 
 三个指头点 查字典
 
+# Mouse 鼠标
+
+Mouse配置下取消勾选 Natural Scroll direction （遵循Windows下的鼠标滑动习惯）
+
 在使用鼠标的情况下，可以使用 command + control + d 来代替三指取词功能。
