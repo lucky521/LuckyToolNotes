@@ -72,6 +72,8 @@ cmd + 上/下   向上/向下跳转文件夹深度
 
 cmd + i 显示文件属性
 
+cmd + j 显示文件夹的大小
+
 展示Finder底端的路径栏  alt + command + p
 
 
